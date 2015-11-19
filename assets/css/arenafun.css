@@ -2412,7 +2412,7 @@ fieldset[disabled] .btn {
       -webkit-transition: .3s opacity ease;
       transition: .3s opacity ease;
       -webkit-backface-visibility: hidden;
-      opacity: 0.8; }
+      opacity: 0.9; }
     .angled-img .img.img-offset {
       -webkit-transform-origin: 50% 100%;
       transform-origin: 50% 100%; }
@@ -3168,7 +3168,7 @@ button, input, select, textarea {
     margin-top: 0; }
   .youplay-banner .image {
     position: absolute;
-    opacity: 0.8;
+    opacity: 0.9;
     top: 0;
     left: 0;
     width: 100%;
@@ -3775,7 +3775,7 @@ h2 + .youplay-news {
   vertical-align: top;
   width: 150px; }
   .youplay-user .angled-img .img > img {
-    opacity: 0.8; }
+    opacity: 0.9; }
   .youplay-user .angled-img:hover .img > img {
     opacity: 0.6; }
   .youplay-user .angled-img .icon {
